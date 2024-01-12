@@ -1,4 +1,4 @@
-# LayerZero Aptos
+# LayerZero Aptos by PavlovaVeronikka
 
 LayerZero Aptos endpoint.
 
